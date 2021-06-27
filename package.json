@@ -2,9 +2,9 @@
   "name": "DivaSBot",
   "version": "0.0.1",
   "description": "h",
-  "main": "mw.js",
+  "main": "index.js",
   "scripts": {
-  "start": "node mw.js"
+  "start": "node index.js"
   },
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1"
